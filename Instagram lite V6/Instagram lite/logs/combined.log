@@ -5,3 +5,17 @@
 {"analyzed":3,"counts":{"abusive":0,"negative":1,"neutral":0,"positive":2},"level":"info","message":"Comments analyzed","postId":"6ab5353c82577d1f7afe194d","timestamp":"2026-11-12T10:08:44.819Z","userId":"6ab52eec82577d1f7afe1927"}
 {"commentId":"6af592f9fc750cc7f8de1c63","level":"info","message":"Comment created","postId":"6ab5353c82577d1f7afe194d","timestamp":"2026-11-12T10:20:41.576Z","userId":"6ab52eec82577d1f7afe1927"}
 {"analyzed":4,"counts":{"abusive":1,"negative":1,"neutral":0,"positive":2},"level":"info","message":"Comments analyzed","postId":"6ab5353c82577d1f7afe194d","timestamp":"2026-11-12T10:20:53.073Z","userId":"6ab52eec82577d1f7afe1927"}
+{"level":"info","message":"MongoDB connected","timestamp":"2026-11-20T05:04:23.864Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2026-11-20T05:06:25.883Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2026-11-20T05:07:57.959Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2026-11-20T05:08:10.262Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2026-11-20T05:08:15.723Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2026-11-20T05:10:31.934Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2026-11-20T05:20:46.630Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2026-11-20T05:20:46.631Z"}
+{"level":"info","message":"Server running on port 5001","timestamp":"2026-11-20T05:20:46.644Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2026-11-20T05:22:10.462Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2026-11-20T05:26:07.231Z"}
+{"level":"info","message":"Server running on port 5001","timestamp":"2026-11-20T05:26:07.242Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2026-11-20T05:26:39.607Z"}
+{"level":"info","message":"Server running on port 5001","timestamp":"2026-11-20T05:26:39.618Z"}
